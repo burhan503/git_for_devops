@@ -1,7 +1,7 @@
 
 # Git Commands Reference
 
-## 1. Basic Setup
+## 1. Basic Setup This all commands is used for devops
 
 - **Initialize a new Git repository**
   ```bash
